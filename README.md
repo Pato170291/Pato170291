@@ -14,7 +14,16 @@
 
 ## 💼 Proyectos destacados
 
-### 📘 [Mi Blog Personal](https://loquepinto.com)
+#### 📋 Sistema de Gestión Comercial v1.0
+Es una plataforma web integral diseñada para comercios y pequeñas empresas que necesitan organizar y controlar sus operaciones diarias desde un solo lugar.        Permite administrar clientes, proveedores y productos; registrar compras y ventas con múltiples medios de pago; controlar caja y stock en tiempo real; generar reportes analíticos de ganancias; e importar/exportar información masiva.
+
+>🛠️ Tecnologías
+- **Backend:** PHP 8.2+ | Laravel 12
+- **Frontend:** Blade | JavaScript | Tailwind CSS | Vite
+- **Base de Datos:** MySQL
+- **Librerías clave:** Laravel Excel (importación/exportación planillas) | Dompdf (generación de PDF)
+
+### 📘 Mi Blog Personal
 Blog desarrollado desde cero con Laravel, con funcionalidades completas como **sistema de login**, creación y edición de entradas, y publicación online.
 
 > 🛠️ Tecnologías: Laravel • TailwindCSS • MySQL • Autenticación con Laravel Breeze/Sanctum (según el caso)
