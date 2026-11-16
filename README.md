@@ -4,15 +4,24 @@
 💼 Gestor de proyectos tecnologicos
 ---
 
-## 🚀 Tecnologías que uso
-
-- 🔧 **Backend:** PHP • Laravel
-- 🎨 **Frontend:** HTML • CSS • JavaScript • Vue.js • Tailwind CSS
-- 🧰 **Herramientas:** Git • GitHub • Docker • Asana • Trello
+##🚀 Tecnologías que uso
+- 🔧 Backend: PHP • Laravel • Firebase
+- 🎨 Frontend: HTML • CSS • JavaScript • Vue.js • Tailwind CSS
+- 📱 Móvil: Capacitor
+- 🧰 Herramientas: VS Code • Android Studio • Git • GitHub • Docker • Asana • Trello
 
 ---
 
-## 💼 Proyectos destacados
+### 💼 Proyectos destacados
+
+##### ⏰ RecordaMe — Asistente Personal de Salud y Recordatorios
+Es una aplicación móvil y web progresiva (PWA) diseñada para ayudar a las personas a organizar y cumplir con sus tratamientos médicos y rutinas diarias de forma sencilla y accesible. Permite programar alarmas y recordatorios recurrentes de medicación, agendar turnos médicos, llevar un seguimiento del historial de tomas e interactuar con la aplicación mediante comandos y lectura por voz.
+
+>🛠️ Tecnologías
+- **Frontend:** Vue.js 3 | JavaScript | Tailwind CSS | Vite
+- **Móvil:** Capacitor | Android Studio
+- **Base de Datos y Servicios:** Firebase (Firestore)
+- **APIs clave:** Web Speech API (reconocimiento y síntesis de voz / TTS)
 
 #### 📋 Sistema de Gestión Comercial v1.0
 Es una plataforma web integral diseñada para comercios y pequeñas empresas que necesitan organizar y controlar sus operaciones diarias desde un solo lugar.        Permite administrar clientes, proveedores y productos; registrar compras y ventas con múltiples medios de pago; controlar caja y stock en tiempo real; generar reportes analíticos de ganancias; e importar/exportar información masiva.
